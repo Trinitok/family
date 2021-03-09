@@ -1,10 +1,16 @@
 <template>
     <div>
-        <h1>Mike</h1>
+        <div class="component-title">
+            <h1>Mike</h1>
+        </div>
+        <div class="mike-gif">
+            <img src="./IMG_20210301_174539-0-Animated.gif" />
+        </div>
     </div>
 </template>
 
 <script>
+
 export default {
     name: "Mike"
 }

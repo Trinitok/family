@@ -3,7 +3,6 @@
         <h1>People</h1>
         <div id="nav">
             <router-link to="/">Home</router-link> |
-            <router-link to="/austin-hills">Austin Hills</router-link> |
             <router-link to="/tom-kelly-ii">Tom Kelly II</router-link> |
             <router-link to="/mike-levis">Mike Levis</router-link> |
         </div>
