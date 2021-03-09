@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "deploy-execa": "node scripts/gh-pages-deploy.js",
+    "swerve": "npm run build && npm run serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",

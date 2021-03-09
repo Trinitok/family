@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <h1>Hello</h1>
+      <h1>Please Click One of the People on the Nav Bar</h1>
   </div>
 </template>
 

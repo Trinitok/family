@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+// src/components/people/tom-kelly-ii/Tom.vue
 
 Vue.use(VueRouter)
 
@@ -16,7 +17,7 @@ const routes = [
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    // component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    component: () => import(/* webpackChunkName: "austin-hills" */ '../components/people/austin-hills/Austin.vue')
   },
   {
     path: '/tom-kelly-ii',
@@ -24,7 +25,7 @@ const routes = [
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    // component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    component: () => import(/* webpackChunkName: "austin-hills" */ '../components/people/tom-kelly-ii/Tom.vue')
   },
   {
     path: '/mike-levis',
@@ -32,7 +33,7 @@ const routes = [
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    // component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    component: () => import(/* webpackChunkName: "austin-hills" */ '../components/people/mike-levis/Mike.vue')
   }
 ]
 
