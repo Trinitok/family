@@ -12,7 +12,6 @@
     "perm-mod": "sudo chown -c -R $USER:$USER ./"
   },
   "dependencies": {
-    "axios": "^0.20.0",
     "core-js": "^3.6.5",
     "uuid": "^8.3.1",
     "vue": "^2.6.11",
