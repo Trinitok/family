@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="component-title">
-            <h1>Unknown</h1>
+            <h1>Mickey</h1>
         </div>
         <div class="person-gif">
             <img src="./mickey.gif" />

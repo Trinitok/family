@@ -5,7 +5,7 @@
             <router-link to="/">Home</router-link> |
             <router-link to="/tom-kelly-ii">Tom Kelly II</router-link> |
             <router-link to="/mike-levis">Mike Levis</router-link> |
-            <router-link to="/unknown">Uknown Person</router-link> |
+            <router-link to="/mickey-chapman">Mickey Chapman</router-link> |
         </div>
     </header>
 </template>
