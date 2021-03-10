@@ -3,7 +3,7 @@
         <div class="component-title">
             <h1>Mike</h1>
         </div>
-        <div class="mike-gif">
+        <div class="person-gif">
             <img src="./IMG_20210301_174539-0-Animated.gif" />
         </div>
     </div>
